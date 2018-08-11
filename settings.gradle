@@ -1,0 +1,1 @@
+include ':app', ':normal-Pattern', ':abstractStatic-Pattern', ':Delegate-Pattern', ':doubleDelegate-pattern', ':policy-Pattern'
